@@ -8,9 +8,11 @@ This is the original java application (2017). This was made when I first discove
 <li>To <b>view and edit code</b> use *"CourseGo Repo"*</li><br>
 <li><b>Sql database file is stored in *"MySql Database"*</li></b>
 </ul>
-<br><br>
+<br>
 
 *Below is some extract from the Systems Requirements Document and System Design Specification Document which can provide insight into why the program was created and what job it must fulfil.*
+
+<br>
 
 Systems Requirements Document 
 ---------------------------

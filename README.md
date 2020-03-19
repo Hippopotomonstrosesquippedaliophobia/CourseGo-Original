@@ -2,7 +2,7 @@
 
 This is the original java application (2017). This was made when I first discovered Java for a class group project with a peer and myself.
 
-<h2>Instructions</h2>
+<h3>Instructions</h3>
 To simply <b>use the application</b> download *"Course Go Release"*<br>
 To <b>view and edit code</b> use *"CourseGo Repo"*<br>
 <b>Sql database file is stored in *"MySql Database"*</b><br><br>

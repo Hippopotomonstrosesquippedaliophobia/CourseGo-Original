@@ -48,6 +48,8 @@ Another possible solution would be, to migrate the current database to a more fe
 Considering the enormous pressure and work placed on teachers around the report period, yet another possible option would be to hire someone specifically to review corrections and/or assist the marking and calculations for the reports. There would however be a downside to this option, being the salary cost of the temporary worker to the school every year.  
 The best face-value solution for such issues would be, to have custom in house software built to facilitate the needs and provide ease of use to the client and the other teachers. This solution would have all the costs up front, however it will result in a system which can be utilized by almost anyone for years to come and will not incur yearly/monthly fees which can eventually add up.
 
+<hr>
+
 Systems Design Specification
 ---------------------------
 

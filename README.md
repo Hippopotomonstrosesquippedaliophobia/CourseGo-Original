@@ -1,6 +1,6 @@
 # CourseGo Original
 
-This is the original java application. This was made when I first discovered Java for a class group project.
+This is the original java application (2017). This was made when I first discovered Java for a class group project.
 
 *Below is some extract from the Systems Requirements Document and System Design Specification Document which can provide insight into why the program was created and what job it must fulfil.*
 
